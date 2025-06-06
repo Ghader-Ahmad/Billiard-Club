@@ -1,0 +1,10 @@
+E:\Projects Outside 14\BiliardClub\BiliardClub\bin\Debug\BiliardClub.exe.config
+E:\Projects Outside 14\BiliardClub\BiliardClub\bin\Debug\BiliardClub.exe
+E:\Projects Outside 14\BiliardClub\BiliardClub\bin\Debug\BiliardClub.pdb
+E:\Projects Outside 14\BiliardClub\BiliardClub\obj\Debug\BiliardClub.csproj.AssemblyReference.cache
+E:\Projects Outside 14\BiliardClub\BiliardClub\obj\Debug\BiliardClub.Form1.resources
+E:\Projects Outside 14\BiliardClub\BiliardClub\obj\Debug\BiliardClub.Properties.Resources.resources
+E:\Projects Outside 14\BiliardClub\BiliardClub\obj\Debug\BiliardClub.csproj.GenerateResource.cache
+E:\Projects Outside 14\BiliardClub\BiliardClub\obj\Debug\BiliardClub.csproj.CoreCompileInputs.cache
+E:\Projects Outside 14\BiliardClub\BiliardClub\obj\Debug\BiliardClub.exe
+E:\Projects Outside 14\BiliardClub\BiliardClub\obj\Debug\BiliardClub.pdb
